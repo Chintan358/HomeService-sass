@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE / editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Secret files
+secret.key

@@ -1,0 +1,13 @@
+mkdir backend\app
+mkdir backend\core
+mkdir backend\models
+mkdir backend\routers
+mkdir backend\schemas
+mkdir backend\utils
+mkdir frontend\src
+mkdir frontend\src\components
+mkdir frontend\src\pages
+mkdir frontend\src\hooks
+mkdir frontend\src\utils
+mkdir docs
+mkdir .github\workflows
